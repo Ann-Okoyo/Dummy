@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">AmaliApplication</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="msg_logout">Are you sure want to logout?</string>
+    <string name="msg_delete_account">Are you sure want to delete account?</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <!--Menu-->
+    <string name="home">Home</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="profile">Profile</string>
+
+    <!--Welcome Screen-->
+    <string name="welcome_to">Welcome \n to AmaliConnect</string>
+    <string name="empowering_athletes">Empowering athletes in Kenya</string>
+    <string name="continue_">Continue</string>
+    <string name="next">Next</string>
+
+    <!--Register Screen-->
+    <string name="sign_up">SignUp</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="pls_enter_full_name">Please enter full name</string>
+    <string name="pls_enter_email">Please enter email</string>
+    <string name="pls_enter_valid_email">Please enter valid email</string>
+    <string name="pls_enter_password">Please enter password</string>
+    <string name="pls_enter_confirm_password">Please enter confirm password</string>
+    <string name="password_should_be_same">Password and confirm password should be same</string>
+
+    <!--Login Screen-->
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">
+    <font color="#FF000000">Don\'t have an account?</font><font color="#3F8E3F"> SignUp</font>
+    </string>
+
+    <!--Select Role Screen-->
+    <string name="athlete">Athlete</string>
+    <string name="fan">Fan</string>
+    <string name="back">Back</string>
+    <string name="kindly_tell_us">Kindly tell us who you are inorder to make your experience within the application the best</string>
+    <string name="an_athlete_is">An Athlete is someone who \nparticipates in races both track \nand outdoor</string>
+    <string name="a_fan_is">A fan is someone with \nadmiration and interest in both \nthe racing sport and athletes</string>
+
+    <!--Profile Screen-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="achievements">Achievements</string>
+    <string name="club_history">Club History</string>
+    <string name="agent">Agent</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="save">Save</string>
+
+    <!--Home Screen-->
+    <string name="explore">Explore</string>
+
+    <!--Comment Screen-->
+    <string name="zero">0</string>
+    <string name="comment">Comment</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="enter_a_comment">Enter a comment</string>
+
+    <!--Upload Video Screen-->
+    <string name="description">Description</string>
+
+    <!-- Donation Screen-->
+    <string name="donors">DONORS</string>
+    <string name="raised_ksh">RAISED (Ksh)</string>
+    <string name="goal">Goal:</string>
+    <string name="days_left">Days Left:</string>
+    <string name="make_donation">Make Donation</string>
+
+
+    <!--Settings Screen-->
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="log_out">Log out</string>
+    <string name="alert">Alert!</string>
+
+    <!--Account Screen-->
+    <string name="change_account_name">Change account name</string>
+    <string name="change_your_password">Change your password</string>
+    <string name="delete_account">Delete Account</string>
+
+
+</resources>
